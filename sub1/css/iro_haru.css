@@ -1,0 +1,273 @@
+.haru1a{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#f4cdc2;
+}
+
+.haru1b{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#efbd92;
+}
+
+.haru1c{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#e4745c;
+}
+
+.haru1d{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#e07481;
+}
+
+.haru1e{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#dd5e6b;
+}
+
+.haru1{
+    display:flex;
+}
+
+.haru2a{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#d5455a;
+}
+
+.haru2b{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color: #e9923a;
+}
+
+.haru2c{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#de5322;
+}
+.haru2d{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#d9221b;
+}
+.haru2e{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#ebd262;
+}
+.haru2{
+    display: flex;
+}
+
+.haru3a{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#f4e158
+    ;
+}
+.haru3b{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#e5ad26
+    ;
+}
+
+.haru3c{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#a5c860
+    ;
+}
+.haru3d{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#79b74c
+    ;
+}
+.haru3e{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#309e39;
+}
+
+.haru3{
+    display: flex;
+}
+
+
+.haru4a{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#f4cdc2;
+}
+.haru4b{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#67b46a;
+}
+.haru4c{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#2aab7f;
+}
+.haru4d{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#45b1a1;
+}
+.haru4e{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#9dd1d7;
+}
+
+.haru4{
+    display: flex;
+}
+
+.haru5a{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#f8f0b7;
+}
+.haru5b{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#7c93b3;}
+.haru5c{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#0a679d;}
+.haru5d{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#305088;}
+.haru5e{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#8a4788;}
+
+.haru5{
+    display: flex;
+}
+
+.haru6a{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#904d23;}
+.haru6b{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#f9e9aa;}
+.haru6c{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#dccec5;}
+.haru6d{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#e1c589;}
+.haru6e{
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+    width: 50px;
+    height: 50px;
+    background-color:#d6ab64;}
+
+.haru6{
+    display: flex;
+    text-align:center;
+}
+
