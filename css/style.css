@@ -68,7 +68,54 @@
     display:flex;
 }
 
+/* 問題２*/
+.boxQ2_a1{
+    width:60px;
+    height:60px ;
+    background-color: blue;
 }
+.boxQ2_a2{
+    width:60px;
+    height:60px ;
+    background-color: red;
+}
+.boxQ2_b1{
+    width:60px;
+    height:40px ;
+    background-color: black;
+}
+.boxQ2_b2{
+    width:60px;
+    height:40px ;
+    background-color: green;
+}
+
+.boxQ2_b3{
+    width:60px;
+    height:40px ;
+    background-color: blue;
+}
+
+.boxQ2_c1{
+    width:60px;
+    height:20px ;
+    background-color: red;
+}
+.boxQ2_c2{
+    width:60px;
+    height:40px ;
+    background-color: yellow;
+}
+
+.boxQ2_c3{
+    width:60px;
+    height:60px ;
+    background-color: green;
+}
+
+.wrapperQ2{
+    display:flex;
+
 
 .big{
     font-size:30px;
