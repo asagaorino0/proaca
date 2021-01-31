@@ -115,6 +115,35 @@
 
 .wrapperQ2{
     display:flex;
+}
+
+/* 問題３ */
+
+.boxQ3_1{
+    width:120px;
+    height: 20px;
+    background-color: blue;
+}
+
+.boxQ3_2a{
+    width:80px;
+    height:60px ;
+    background-color: red;
+}
+.boxQ3_2b{
+    width:40px;
+    height:60px ;
+    background-color: black;
+}
+.boxQ3_3{
+    width:120px;
+    height:10px ;
+    background-color: green;
+}
+.Q3_2{
+    display:flex;
+}
+
 
 
 .big{
