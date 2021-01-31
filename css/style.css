@@ -32,8 +32,39 @@
     height:100px ;
     background-color: green;
 }
-
-.wrapper{
+/* 問題１ */
+.box11{
+    width:100px;
+    height:100px ;
+    background-color: blue;
+}
+.box12{
+    width:100px;
+    height:100px ;
+    background-color: red;
+}.box13{
+    width:100px;
+    height:100px ;
+    background-color: green;
+}
+.wrapper1{
+    display:flex;
+}
+.box21{
+    width:100px;
+    height:100px ;
+    background-color: green;
+}
+.box22{
+    width:100px;
+    height:100px ;
+    background-color: blue;
+}.box23{
+    width:100px;
+    height:100px ;
+    background-color: red;
+}
+.wrapper2{
     display:flex;
 }
 
