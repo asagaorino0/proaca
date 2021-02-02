@@ -114,34 +114,63 @@
 }
 
 .wrapperQ2{
+
     display:flex;
 }
 
 /* 問題３ */
 .boxQ3_1{
-    width:120px;
-    height: 20px;
+    width:100%;
+    height: 100px;
     background-color: blue;
 }
 
-.boxQ3_2a{
-    width:80px;
-    height:60px ;
-    background-color: red;
+
+@media screen and (min-width: 480px) {
+	/* 480px以下に適用されるCSS（スマホ用） */
+
+    .boxQ3_2a{
+        width:100%;
+        height:300px ;
+        background-color: red;
+    }
+
+    .boxQ3_2b{
+        width:100%;
+        height:100px ;
+        background-color: black;
+    }
+    .Q3_2{
+        display:flex;
+        flex-wrap: wrap;
+      
+    }
 }
-.boxQ3_2b{
-    width:40px;
-    height:60px ;
-    background-color: black;
+
+@media screen and (min-width: 640px) {
+	/* 959px以下に適用されるCSS（タブレット用） */
+    .boxQ3_2a{
+        width:80%;
+        height:300px ;
+        background-color: red;
+    }
+    
+    .boxQ3_2b{
+        width:20%;
+        height:300px ;
+        background-color: black;
+    }
+    .Q3_2{
+        display:flex;
+    }
 }
+
 .boxQ3_3{
-    width:120px;
-    height:10px ;
+    width:100%;
+    height:50px ;
     background-color: green;
 }
-.Q3_2{
-    display:flex;
-}
+
 
 /* 問題４ */
 .boxQ4_1{
