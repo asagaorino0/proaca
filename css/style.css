@@ -127,7 +127,7 @@
 
 
 @media screen and (min-width: 480px) {
-	/* 480px以下に適用されるCSS（スマホ用） */
+	/* 480px以下に適用（スマホ用） */
 
     .boxQ3_2a{
         width:100%;
@@ -148,7 +148,7 @@
 }
 
 @media screen and (min-width: 640px) {
-	/* 959px以下に適用されるCSS（タブレット用） */
+	/* 640px以下に適用*/
     .boxQ3_2a{
         width:80%;
         height:300px ;
